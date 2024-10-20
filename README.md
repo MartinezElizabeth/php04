@@ -4,9 +4,8 @@ Este repositorio contiene los siguientes archivos relacionados con tareas y tema
 
 ## Archivos PHP
 
-# Tema4.1
+### Tema4.1
 
-[Uploading Tarea.php…]()Tema4.1
 <?php
 $dia = 24; //se declara una variable de tipo integer.
 $sueldo = 758.43;//se declara una variable  de tipo double.
