@@ -22,7 +22,7 @@ echo $nombre;
 echo PHP_EOL;
 echo "Variable boolean:";
 ?>
-# Tarea3
+### Tarea3
 <?php
 $cadena1 = "diego";
 $cadena2 = "juan";
@@ -34,7 +34,7 @@ echo $cadena1 . "tiene $edad1 de edad " . PHP_EOL;
 ?>
 
 
-# Tarea4.4
+### Tarea4.4
 <?php
 // Bucle 1
 for ($f = 1; $f <= 100; $f++) {  // Usar la misma variable $f
@@ -66,7 +66,7 @@ foreach ($colors as $value) {
     echo $value . PHP_EOL;
 }
 ?>
-# Tema2
+### Tema2
 [<?php
 //Condición 1
 $valor = rand (1,10);
